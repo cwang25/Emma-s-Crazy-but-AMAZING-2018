@@ -11,7 +11,7 @@
 1. Run 365 miles a year
 2. Loose weight to go under 100kg.
 3. Do yoga 3 times a week.
-4. Eat vitamin D every day.
+4. Eat vitamin D everyday.
 
 ## Knowledge
 1. Learn Reinforcement learning. (wish to publish a paper in this area)
@@ -22,8 +22,8 @@
 6. Learn app design & HTML etc.
 
 ## Travel
-1. 3 times Travel this year, and write reviews of each trip.
-2. Have been to Grand Canyon, Antelope, Glen Canyon & Sedona in Arizona.
+1. >3 times trips this year, and write reviews of each trip.
+2. Have been to Grand Canyon, Antelope, Glen Canyon & Sedona in Arizona, to write a review.
 3. Wish to go Europe this year.
 4. Make Home trip valuable, have fun with families.
 
@@ -31,6 +31,7 @@
 1. Know and connect a new person every week!
 2. Connect interetsing people in Microsoft!
 3. Hang out with people every two weeks!
+4. Use Meetup and go different meetup every week!
 
 ## Art
 1. Five violin pieces.
