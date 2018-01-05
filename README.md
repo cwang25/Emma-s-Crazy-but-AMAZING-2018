@@ -19,7 +19,7 @@
 2. Learn Bayesian optimization.
 3. Read 25 books.
 4. Learn story-telling and public speaking.
-5. Be humorous!
+5. Be humorous! - read Wait But Why everyday, so interesting~ https://waitbutwhy.com/
 6. Learn app design & HTML etc.
 
 ## Travel
