@@ -15,7 +15,7 @@
 4. Eat vitamin D everyday.
 
 ## Knowledge
-1. Learn Reinforcement learning. (wish to publish a paper in this area)
+1. Learn Reinforcement learning. (wish to publish a paper in this area) [Stanford CS 234]
 2. Learn Bayesian optimization.
 3. Read 25 books.
 4. Learn story-telling and public speaking.
